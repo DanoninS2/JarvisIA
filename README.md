@@ -8,4 +8,4 @@ Canal oficial de downloads e atualizações automáticas do **JarvisIA**.
 
 ## Novidades da versão v1.0.2
 
-JARVISIA 1.0.2 - Identidade Visual Oficial JarvisIA, Instalador 3D Animado, Motor Residencial BR no Auto Limit Reset, 412 Skills & MCP REA
+JARVISIA 1.0.2 - Identidade Visual Oficial JarvisIA, Instalador 3D Animado, 412 Skills & MCP REA
