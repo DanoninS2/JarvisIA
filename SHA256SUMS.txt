@@ -1,1 +1,2 @@
-64e73e55f53fe1456a4795865fab87b57546543737dfb6917d795b640d19af75  MuriloCode-Update-1.0.0.zip
+f915c6a0647ecd77fe6abe902de55f75f07224bfba5946f6d16c4eeed308ac4c  MuriloCode-Setup-1.0.0.exe
+7fd58b6b36952067e719fe2a8ff0dbfb3c4d0b4039583d494837d680dee2c6f0  MuriloCode-component-sources-1.0.0.zip
