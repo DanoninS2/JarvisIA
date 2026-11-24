@@ -1,11 +1,11 @@
-# MuriloCode — Releases Oficiais
+# JarvisIA
 
-Canal oficial de downloads e atualizações automáticas do **MuriloCode IDE** por **@DanoninS2**.
+Canal oficial de downloads e atualizações automáticas do **JarvisIA**.
 
-- **Versão mais recente:** `v1.0.1`
-- **Instalador Oficial:** [MuriloCode-Setup-1.0.1.exe](https://github.com/DanoninS2/MuriloCode/releases/download/v1.0.1/MuriloCode-Setup-1.0.1.exe)
-- **Todas as Releases:** [https://github.com/DanoninS2/MuriloCode/releases](https://github.com/DanoninS2/MuriloCode/releases)
+- **Versão atual:** `v1.0.2`
+- **Instalador Windows x64:** [JarvisIA-Setup-1.0.2.exe](https://github.com/DanoninS2/MuriloCode/releases/download/v1.0.2/JarvisIA-Setup-1.0.2.exe)
+- **Releases:** [https://github.com/DanoninS2/MuriloCode/releases](https://github.com/DanoninS2/MuriloCode/releases)
 
-## Notas da versão v1.0.1
+## Novidades da versão v1.0.2
 
-MURILOCODE 1.0.1 - Correção do Painel Lateral de Contexto, Atualizador Automático (Atualizar agora), 412 Skills, MCP REA Padrão & GitHub Sync
+JARVISIA 1.0.2 - Identidade Visual Oficial JarvisIA, Instalador 3D Animado, Motor Residencial BR no Auto Limit Reset, 412 Skills & MCP REA

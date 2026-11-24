@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "1.0.1",
-  "downloadUrl": "https://github.com/DanoninS2/MuriloCode/releases/download/v1.0.1/MuriloCode-Setup-1.0.1.exe",
-  "sha256": "64155a3691c958e990e1461b74eaf5af852a1adb9f2f0d3dd7cd3a7d07eb724f",
-  "size": 477848777,
-  "notes": "MURILOCODE 1.0.1 - Correção do Painel Lateral de Contexto, Atualizador Automático (Atualizar agora), 412 Skills, MCP REA Padrão & GitHub Sync",
-  "publishedAt": "2026-11-24T02:25:51.718Z",
-  "signature": "w2T+aoOLD2onraRw0qt3YEPcpRd2AkcNVHnDgogCKGyHnqviD0+LVfyEaT8Cn8EtKZEv3aMFNzCM77gaVTRkBg=="
+  "version": "1.0.2",
+  "downloadUrl": "https://github.com/DanoninS2/MuriloCode/releases/download/v1.0.2/JarvisIA-Setup-1.0.2.exe",
+  "sha256": "41fd829dfa261f20eaf319a53880a5d1fd3a9a52e3826dd23d9a9f504733caa8",
+  "size": 479139852,
+  "notes": "JARVISIA 1.0.2 - Identidade Visual Oficial JarvisIA, Instalador 3D Animado, Motor Residencial BR no Auto Limit Reset, 412 Skills & MCP REA",
+  "publishedAt": "2026-11-24T19:36:01.731Z",
+  "signature": "xfA9UjIeP2ZaT+ocmqrKcFPKtIliDySwyJ0jTqlhfwUNS4BZ7VpoQWtwCUmIx0uIkN2xinx74NGqpTTKix36Dw=="
 }

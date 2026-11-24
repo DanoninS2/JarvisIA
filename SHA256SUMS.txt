@@ -1,2 +1,2 @@
-64155a3691c958e990e1461b74eaf5af852a1adb9f2f0d3dd7cd3a7d07eb724f  MuriloCode-Setup-1.0.1.exe
-3e6955c3ba03207432cec81bbb522ec64df8413d1e168962932e468b8b6c7750  MuriloCode-component-sources-1.0.1.zip
+41fd829dfa261f20eaf319a53880a5d1fd3a9a52e3826dd23d9a9f504733caa8  JarvisIA-Setup-1.0.2.exe
+477f45a09de37bafb62ce5707fee72da8556d1ebe5c24bb577fb7f0c843c9463  JarvisIA-component-sources-1.0.2.zip
