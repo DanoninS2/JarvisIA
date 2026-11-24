@@ -1,2 +1,2 @@
-f915c6a0647ecd77fe6abe902de55f75f07224bfba5946f6d16c4eeed308ac4c  MuriloCode-Setup-1.0.0.exe
-7fd58b6b36952067e719fe2a8ff0dbfb3c4d0b4039583d494837d680dee2c6f0  MuriloCode-component-sources-1.0.0.zip
+64155a3691c958e990e1461b74eaf5af852a1adb9f2f0d3dd7cd3a7d07eb724f  MuriloCode-Setup-1.0.1.exe
+3e6955c3ba03207432cec81bbb522ec64df8413d1e168962932e468b8b6c7750  MuriloCode-component-sources-1.0.1.zip
