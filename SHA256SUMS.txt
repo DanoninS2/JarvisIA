@@ -1,2 +1,2 @@
-8c8dc8ff3522bde3008fdce96b1b06be3ad4eb4fa97086fbcf5abd3262c38462  JarvisIA-Setup-1.0.2.exe
-8f244829f7b1799534eb3327870f4fa4196a23846850f3637f98d5abc5fd504e  JarvisIA-component-sources-1.0.2.zip
+cc59db6c00860efa10fb7487676c901f860c8a9c1fba3ec7a110c54055884fa8  JarvisIA-Setup-1.0.2.exe
+00a5aa03d181e5eb3cb9bf5793e1d0299d743acde5a28c089bb56795c3020233  JarvisIA-component-sources-1.0.2.zip
